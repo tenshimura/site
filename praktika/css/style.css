@@ -1,0 +1,170 @@
+body {
+    background: #1e2124
+}
+
+.container {
+    margin:auto;
+    width: 1200px;
+}
+
+.head {
+    border-radius: 6px;
+    background: #424549;
+    height: 60px;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.logo {
+    color: #7289da;
+    font-size: 24px;
+    font-family: arial;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+nav {
+	margin-right: 30px;
+}
+nav ul {
+    list-style: none; 
+    margin-right: 10px;
+}
+
+nav li {
+    margin: 0;
+    margin-left: 40px;
+    font-family: arial;
+    font-size: 18px;
+    color: white;
+    display: inline;
+    font-weight: bold;
+    
+}
+
+.menu1 {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    background: #424549;
+    border-radius: 6px;
+    width: 160px;
+    height: 220px;
+    font-weight: bold;
+}
+
+.menu2 {
+    margin-top: 30px;
+    margin-left: 30px;
+    background: #424549;
+    border-radius: 6px;
+    width: 160px;
+    height: 220px;
+    position: relative;
+}
+
+.b1 {
+	display: flex;
+    margin-left: 30px;
+    border-radius: 6px;
+    background: #424549;
+    height: 400px;
+}
+
+.b2 {
+	display: flex;
+    align-items: ;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 6px;
+    background: #424549;
+    height: 180px;
+    
+}
+
+.ep {
+    border-radius: 6px;
+    background: white;
+    height: 70px;
+    width: 120px;
+    margin: 50px;
+}
+
+.b3 {
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 6px;
+    background: #424549;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ep1 {
+    border-radius: 6px;
+    background: white;
+    height: 70px;
+    width: 120px;
+    margin: 25px;
+}
+
+.ep2 {
+	border-radius: 6px;
+    background: white;
+    height: 70px;
+    width: 120px;
+    margin: 70px;
+}
+
+article {
+    width: 980px;
+}
+
+
+main {
+    display: flex;
+}
+
+ul {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+li {
+    margin: 30px;
+    font-family: arial;
+    color: white;
+}
+
+.mu {
+    position: absolute;
+    border-radius: 6px;
+    height: 180px;
+    width: 120px;
+    margin: 20px;
+    background: white;
+}
+
+.m {
+    margin: 40px;
+    border-radius: 6px;
+    background: white;
+    height: 320px;
+    width: 280px;
+}
+.lorem {
+    color: white;
+    font-family: arial;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    height: 220px;
+    width: 600px;
+    margin-right: 40px;
+}
